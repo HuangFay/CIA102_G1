@@ -1,6 +1,6 @@
 package com.morning.meals.model;
 
-public class meals {
+public class Meals {
 	private Integer meals_Id;
 
 }
