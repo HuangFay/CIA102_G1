@@ -1,6 +1,6 @@
 package com.morning.member.model;
 
-public class register {
+public class Register {
 	private Integer memNO;
 	private Integer memName;
 }
